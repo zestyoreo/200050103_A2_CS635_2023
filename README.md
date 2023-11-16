@@ -1,0 +1,1 @@
+see the final.ipynb final in RAG folder. it has the main code. others will be explained during eval viva
